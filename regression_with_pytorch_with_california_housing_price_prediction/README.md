@@ -26,3 +26,8 @@ This project demonstrates a regression model built with PyTorch to predict Calif
 - `regression_california_pytorch.py` — Full code in Python
 - `Regression_with_Pytorch_for_California_Housing_Price_Prediction.ipynb` — Notebook version (optional)
 
+## 📌 Tip
+To install dependencies:
+pip install -r requirements.txt
+
+
